@@ -13,11 +13,11 @@
         <!-- Header -->
         <header class="header">
             <div class="header__container">
-                <h1 class="header__title">Viaja con nosotros</h1>
+                <h1 class="header__title_white">Viaja con nosotros</h1>
                 <button class="burger-menu" aria-label="Toggle navigation">
-                    <span class="burger-line"></span>
-                    <span class="burger-line"></span>
-                    <span class="burger-line"></span>
+                    <span class="burger-line burger-line-white"></span>
+                    <span class="burger-line burger-line-white"></span>
+                    <span class="burger-line burger-line-white"></span>
                 </button>
                 <nav class="nav" aria-label="Main navigation">
                     <ul class="nav__list">
@@ -72,6 +72,17 @@
             </div>
         </footer>
     </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const burgerMenu = document.querySelector('.burger-menu');
+            const nav = document.querySelector('.nav');
+
+            burgerMenu.addEventListener('click', () => {
+                nav.classList.toggle('open');
+                burgerMenu.classList.toggle('open');
+            });
+        });
+    </script>
 </body>
 
 </html>
