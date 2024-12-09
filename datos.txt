@@ -1,10 +1,10 @@
 Escuela de Arte Multimedial Da Vinci
 CARRERA: Diseño y Programación Web
 MATERIA: Maquetado y Desarrollo Web
-TRABAJO PRÁCTICO: Examen Parcial 2
+TRABAJO PRÁCTICO: Final
 PROFESOR: Carlos Ferrer
-ALUMNO: Iuliia Soboleva
+ALUMNO: Iuliia Soboleva, 764864790
 CUATRIMESTRE: 1er Cuatrimestre
 COMISIÓN: AP
 TURNO: Noche
-FECHA DE ENTREGA: 28.11.2024
+FECHA DE ENTREGA: 12.12.2024
